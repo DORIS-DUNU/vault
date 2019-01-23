@@ -1,0 +1,65 @@
+.banner_bg {
+ background-image: url(../img/Group6.jpg);
+ background-size: cover;
+ height: 100vh;
+}
+
+.carousel-caption {
+ bottom: 350px !important;
+}
+
+.carousel-indicators {
+ bottom: 320px !important;
+}
+
+.logo_brand{
+ z-index: 1000;
+ position: absolute;
+ width: 200px !important;
+ right: 30px;
+ top: 50px;
+}
+
+.footer_bg {
+ background-image: url(../img/footer_background.jpg);
+ background-size: cover;
+ /* height: 120px;*/
+}
+
+.footer_bg p {
+ color: #1B5A81;
+ font-size: 14px;
+}
+
+.footer_bg img {
+ width: 25px;
+}
+@media (min-width: 320px) and (max-width: 768px) {
+.logo_brand{
+ z-index: 1000;
+ position: absolute;
+ width: 100px !important;
+ right: 30px;
+ top: 20px;
+}
+ .carousel-indicators {
+  bottom: 20px !important;
+ }
+.d-none {
+   display: block !important;
+ }
+ .carousel-caption h5 {
+  font-size: 13px !important;
+ }
+ .carousel-caption {
+ bottom: 30px !important;
+}
+
+}
+
+.displace{
+	z-index: 1000;
+	position: absolute;
+	top: 800px;
+	left: 50px
+}

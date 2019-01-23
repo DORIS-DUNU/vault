@@ -1,0 +1,255 @@
+body{
+	font-family: 'M PLUS Rounded 1c'cursive;
+}
+
+.fr{
+	float: right;
+	width: 290px;
+}
+
+.bbimg{
+	background-image: url(../img/sky2.png);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 657px;
+}
+
+.bbimgg{
+	background-image: url(../img/bimg.png);
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ height: 400px;
+}
+
+
+
+
+
+
+.pp{
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 50px;
+}
+
+.mt{
+	margin-top: 200px;
+}
+
+.bbimgb{
+	background-color: #015686;
+}
+
+.mylogo{
+	width: 137px;
+	}
+.h4{
+	color: #015686;
+	margin-top: 40px;
+}
+
+.pfs{
+	font-size: 20px;
+}
+
+.footerblue{
+	color: #015686;
+	margin-top: 40px;
+}
+
+.frimg{
+	float: right;
+}
+
+.cm{
+	color: #015686;
+	margin-top: 40px;
+	font-family: -webkit-pictograph;
+    font-weight: 900;
+    text-align: center;
+
+}
+.cm1{
+	margin-top: 50px;
+	color: black;
+
+}
+
+.mth5{
+	font-family: -webkit-pictograph;
+    font-weight: 900;
+}
+
+.fs{
+	font-size: 22px;
+}
+
+.man{
+	    width: 315px;
+}
+
+.mti{
+	margin-top: 30px;
+}
+.bluebg{
+	background-color: #015686;
+	height: 590px;
+}
+
+.mtw{
+	  margin-top: 155px;
+    font-size: 28px;
+    color: #eaeaea;
+    font-family: -webkit-pictograph;
+}
+
+.cmput{
+	 width: 411px;
+    height: 31px;
+}
+
+.cmput1{
+	width: 411px;
+    height: 152px;
+}
+
+.cb{
+	background-color: #015686;
+	width: 94px;
+}
+
+.mtii{
+	margin-top: 10px;
+}
+
+.fs1{
+	font-size: 17px;
+}
+
+.banner_bg {
+ background-image: url(../img/Group6.jpg);
+ background-size: cover;
+ height: 100vh;
+}
+
+.carousel-caption {
+ bottom: 350px !important;
+}
+
+.carousel-indicators {
+ bottom: 320px !important;
+}
+
+.logo_brand{
+ z-index: 1000;
+ position: absolute;
+ width: 200px !important;
+ right: 30px;
+ top: 50px;
+}
+
+.footer_bg {
+ background-image: url(../img/footer_background.jpg);
+ background-size: cover;
+ /* height: 120px;*/
+}
+
+.footer_bg p {
+ color: #1B5A81;
+ font-size: 14px;
+}
+
+.footer_bg img {
+ width: 25px;
+}
+
+
+.mrr {
+    margin-right: 178px;
+}
+
+.icon_brand{
+	z-index: 10009;
+    top: 800px;
+    position: absolute;
+    left: 50px;
+}
+
+
+.md {
+    max-width: 1480px !important; 
+    margin-top: 30.75rem !important;
+}
+
+.sp{
+	font-family: -webkit-pictograph;
+    font-size: 19px;
+}
+
+.mtv{
+	margin-top: 327px;
+    font-family: -webkit-pictograph;
+    font-weight: bolder;
+    font-size: 32px;
+}
+
+.mfc{
+	margin-top: 180px;
+    font-size: 36px;
+    color: white;
+    font-family: -webkit-pictograph;
+}
+
+
+.mfs{
+	margin-top: 180px;
+    font-size: 26px;
+    color: white;
+    font-family: -webkit-pictograph;
+}
+
+.fss{
+	font-size: 29px;
+    color: white;
+    font-family: -webkit-pictograph;
+}
+
+.ffm{
+	margin-top: 40px;
+    font-size: 18px;
+    font-family: -webkit-pictograph;
+}
+
+.fff{
+	font-weight: bolder;
+    font-size: 35px;
+    font-family: -webkit-pictograph;
+}
+
+
+
+@media (min-width: 320px) and (max-width: 768px) {
+.logo_brand{
+ z-index: 1000;
+ position: absolute;
+ width: 100px !important;
+ right: 30px;
+ top: 20px;
+}
+ .carousel-indicators {
+  bottom: 20px !important;
+ }
+.d-none {
+   display: block !important;
+ }
+ .carousel-caption h5 {
+  font-size: 13px !important;
+ }
+ .carousel-caption {
+ bottom: 30px !important;
+}
+
+}
